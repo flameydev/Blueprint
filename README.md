@@ -1,10 +1,9 @@
-# Blueprint
+<div align="center">
 
-Blueprint is an easy to use Module for Roblox that allows you to create parts with specific properties already configured for them.
+<h1>Blueprint</h1>
 
-## Features
+<a href="./docs/NAV.md">Docs</a> &nbsp;|&nbsp;
+<a href="./docs/examples.md">Examples</a> &nbsp;|&nbsp;
+<a href="LICENSE.md">License</a>
 
-### Automatically configure properties
-
-- Automatically configure specific properties for created Instances
-- Use the Blueprint.new() method to create it
+</div>

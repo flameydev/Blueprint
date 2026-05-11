@@ -1,10 +1,17 @@
 --!nonstrict
 
+--[[
+Blueprint is licensed under the MIT License. Please see GitHub repository for the full license.
+Copyright (c) 2026 meflamey
+]]
+
 local Blueprint = {}
 
-export type BlueprintObject = {
+export type BlueprintObject = { -- export blueprint object class type
     [string]: any,
 }
+
+--// FUCNTIONS \\--
 
 -- Create a new Blueprint table with given properties
 --properties: The property table used to create the Blueprint
